@@ -1,29 +1,14 @@
-# README TEST #
+# common-react-hungry-flamingo #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repo contains the common React-related files for all Hungry Flamingo projects.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Collecting all common React-related code
+* Contains the shared MUI theme in file `theme-hungry-flamingo.js`
+* Contains shared UI elements and React components
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* Add this repo as a submodule in the root of your project
+* You will find references to this repo in other Hungry Flamingo projects
